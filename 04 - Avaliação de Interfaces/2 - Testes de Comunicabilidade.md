@@ -1,0 +1,7 @@
+*** Testes de Comunicabilidade
+
+A avaliação de interfaces no campo da Interação Humano-Computador (IHC) busca garantir que os sistemas digitais comuniquem-se de forma clara e eficiente com seus usuários. Dentro dessa perspectiva, os Testes de Comunicabilidade se destacam como uma abordagem qualitativa centrada na análise da comunicação entre o sistema e o usuário. Criado por Clarisse de Souza, esse método se baseia nos princípios da semiótica e investiga se as mensagens e sinais emitidos pela interface são compreensíveis para quem a utiliza.
+
+Durante o teste, um usuário realiza tarefas enquanto verbaliza suas ações e pensamentos, permitindo que o avaliador identifique ruídos na comunicação. O avaliador registra expressões como “o que é isso?”, “não era isso que eu queria” ou “e agora?”, que indicam falhas na tentativa da interface de se fazer entender. Ao final, essas expressões são categorizadas para mapear os pontos críticos de comunicabilidade.
+
+Esse tipo de teste é valioso porque vai além da simples eficiência funcional, examinando se a interface consegue "dialogar" de forma intuitiva com o usuário. Ele revela aspectos sutis, como incoerências nos rótulos, metáforas visuais mal aplicadas ou fluxos de navegação confusos. Assim, os Testes de Comunicabilidade contribuem significativamente para o aprimoramento das interfaces, tornando a interação mais clara, natural e eficiente.

@@ -1,0 +1,7 @@
+*** Teste de ergonomia
+
+No campo da Interação Humano-Computador (IHC), a avaliação de interfaces tem como objetivo principal garantir que os sistemas sejam acessíveis, eficientes e confortáveis para o uso humano. Dentro desse contexto, os testes de ergonomia são fundamentais, pois avaliam se a interface respeita os princípios ergonômicos que favorecem a usabilidade e o bem-estar do usuário. Esses testes analisam aspectos físicos, cognitivos e organizacionais da interação, buscando identificar barreiras que possam causar desconforto, fadiga ou erros de operação.
+
+Durante o teste, observa-se como o usuário interage com o sistema, considerando fatores como disposição dos elementos na tela, tempo de resposta, legibilidade, facilidade de navegação e esforço mental exigido. Também são avaliados aspectos do ambiente de uso, como iluminação, postura e tempo de exposição. A ergonomia digital busca reduzir a carga cognitiva e física do usuário, prevenindo falhas e promovendo uma experiência mais eficiente e segura.
+
+Ao identificar problemas ergonômicos, é possível propor melhorias que tornam a interface mais intuitiva, adaptada às capacidades e limitações humanas. Isso não apenas aumenta a produtividade, mas também reduz riscos de estresse e lesões relacionadas ao uso prolongado de sistemas. Portanto, testes de ergonomia são essenciais para o desenvolvimento de interfaces mais humanas, acessíveis e eficazes.

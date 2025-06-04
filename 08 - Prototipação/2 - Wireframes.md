@@ -1,0 +1,7 @@
+A prototipação é uma fase importante no desenvolvimento de interfaces em Interação Humano-Computador (IHC), permitindo testar e refinar ideias antes da implementação final. Dentro dessa etapa, os wireframes se destacam como uma ferramenta fundamental para estruturar a interface de forma clara e funcional. Wireframes são representações esquemáticas que mostram a disposição dos elementos na tela, como botões, menus, áreas de texto e imagens, sem preocupação com aspectos visuais detalhados como cores ou tipografia.
+
+Esses esboços estruturais facilitam a compreensão do fluxo de navegação e a hierarquia das informações, ajudando designers e desenvolvedores a alinharem suas expectativas sobre a funcionalidade do sistema. Os wireframes servem como uma base para discutir, iterar e validar ideias com usuários e equipes, identificando problemas de usabilidade e possibilidades de melhoria.
+
+Além disso, os wireframes são versáteis, podendo ser criados tanto manualmente quanto por meio de ferramentas digitais, o que permite uma rápida modificação conforme o feedback recebido. Eles ajudam a economizar tempo e recursos ao evitar mudanças caras em etapas avançadas do desenvolvimento.
+
+Portanto, a utilização de wireframes na prototipação contribui para um design mais eficiente, centrado no usuário e orientado a soluções práticas. Ao tornar visível a estrutura da interface, os wireframes são fundamentais para criar sistemas mais intuitivos, claros e funcionais, promovendo uma melhor experiência de interação.

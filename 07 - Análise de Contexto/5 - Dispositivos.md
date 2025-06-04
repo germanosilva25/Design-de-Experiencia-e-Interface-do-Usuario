@@ -1,0 +1,7 @@
+A análise de contexto em Interação Humano-Computador (IHC) envolve compreender não apenas os usuários e suas tarefas, mas também os dispositivos utilizados para acessar e interagir com sistemas digitais. A escolha e o uso dos dispositivos têm grande impacto na experiência do usuário, influenciando aspectos como usabilidade, desempenho e acessibilidade da interface.
+
+Dispositivos variados, como computadores, smartphones, tablets, smartwatches e até dispositivos vestíveis, possuem diferentes capacidades técnicas, tamanhos de tela, métodos de entrada e contextos de uso. Por exemplo, uma interface projetada para um desktop pode não funcionar adequadamente em um celular devido ao espaço limitado e à forma de interação baseada em toque. Portanto, entender quais dispositivos os usuários utilizam e em que situações é crucial para criar interfaces responsivas e adaptáveis.
+
+Além disso, a análise de dispositivos permite identificar restrições técnicas e oportunidades, como o uso de sensores, comandos por voz ou gestos, que podem enriquecer a interação. Considerar as condições ambientais, como iluminação e mobilidade, também faz parte dessa avaliação, pois afeta a forma como o usuário percebe e manipula a interface.
+
+Assim, a análise de dispositivos dentro do contexto de uso é indispensável para garantir que a interface seja acessível, eficiente e adequada ao cenário real dos usuários. Projetar com essa visão contribui para uma experiência mais fluida, confortável e satisfatória, aumentando a aceitação e o sucesso do sistema.

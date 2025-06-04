@@ -1,0 +1,7 @@
+A prototipação é uma etapa essencial no desenvolvimento de interfaces dentro da Interação Humano-Computador (IHC), pois permite visualizar e testar ideias antes da implementação final. Entre as diversas formas de prototipação, os sketches — esboços rápidos e simples — são amplamente utilizados por sua praticidade e agilidade. Os sketches funcionam como rascunhos da interface, onde elementos como botões, menus e fluxos são desenhados à mão ou digitalmente para representar a estrutura básica do sistema.
+
+Essa técnica favorece a criatividade, pois permite explorar múltiplas soluções de forma rápida e econômica, sem a preocupação com detalhes técnicos ou estéticos. Além disso, os sketches facilitam a comunicação entre equipes multidisciplinares, como designers, desenvolvedores e usuários, promovendo um entendimento comum sobre o funcionamento da interface.
+
+Os sketches também são fundamentais para envolver os usuários no processo de design, possibilitando a coleta de feedbacks precoces e a identificação de problemas de usabilidade antes de avançar para protótipos mais elaborados. Essa abordagem iterativa reduz custos e retrabalhos, tornando o desenvolvimento mais eficiente.
+
+Em resumo, os sketches são ferramentas valiosas para prototipar ideias de forma simples e rápida, contribuindo para a criação de interfaces mais intuitivas, funcionais e alinhadas às necessidades dos usuários. Eles representam o primeiro passo visual para transformar conceitos em soluções reais, facilitando o processo de inovação e melhoria contínua.

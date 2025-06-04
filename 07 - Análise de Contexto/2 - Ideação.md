@@ -1,0 +1,7 @@
+A Análise de Contexto é uma fase fundamental no processo de desenvolvimento de sistemas interativos dentro da Interação Humano-Computador (IHC), pois busca compreender o ambiente, os usuários e suas reais necessidades. Após a identificação clara do problema, inicia-se a etapa de ideação, que consiste na geração de ideias para encontrar soluções criativas, funcionais e centradas no usuário.
+
+A ideação é um momento de exploração livre, onde não há espaço para julgamentos prematuros. O foco está em propor múltiplas alternativas, mesmo que inicialmente pareçam inviáveis. O objetivo é estimular a criatividade e ampliar as possibilidades de solução, partindo sempre das informações coletadas na análise de contexto. Métodos como brainstorming, mapas mentais e personas são frequentemente utilizados para guiar essa etapa.
+
+Em IHC, a ideação busca equilibrar funcionalidade, estética e usabilidade. Para isso, é essencial considerar as limitações tecnológicas, os objetivos dos usuários e o ambiente de uso da interface. O envolvimento de diferentes perfis profissionais e, principalmente, dos próprios usuários, enriquece o processo e aumenta as chances de sucesso.
+
+Portanto, a ideação, sustentada por uma boa análise de contexto, é uma ponte entre o problema e a solução. É por meio dela que surgem propostas inovadoras, capazes de transformar a interação entre humano e sistema de forma mais eficiente, empática e criativa.

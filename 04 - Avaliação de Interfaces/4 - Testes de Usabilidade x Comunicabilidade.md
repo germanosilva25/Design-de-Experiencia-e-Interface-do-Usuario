@@ -1,0 +1,7 @@
+** Testes de Usabilidade x Comunicabilidade
+
+Na área da Interação Humano-Computador (IHC), a avaliação de interfaces é essencial para garantir uma experiência de uso eficiente, intuitiva e agradável. Dois métodos amplamente utilizados nesse processo são os testes de usabilidade e os testes de comunicabilidade. Embora ambos tenham como foco a melhoria da interação entre o usuário e o sistema, eles apresentam abordagens distintas e complementares. Os testes de usabilidade concentram-se na eficiência, eficácia e satisfação do usuário ao realizar tarefas, identificando barreiras que dificultam ou atrasam a execução das ações pretendidas.
+
+Já os testes de comunicabilidade, baseados na semiótica, avaliam a qualidade da “conversa” entre o sistema e o usuário, analisando se a interface transmite de forma clara suas intenções, regras e mensagens. Enquanto a usabilidade responde se o sistema é fácil de usar, a comunicabilidade investiga se ele é fácil de entender. Essa diferença é fundamental, pois uma interface pode ser funcional, mas não necessariamente clara em sua comunicação.
+
+A combinação desses testes oferece uma visão mais completa da experiência do usuário. Enquanto a usabilidade foca no desempenho, a comunicabilidade examina o significado das interações. Assim, ao integrar ambos os métodos, os desenvolvedores conseguem criar interfaces mais eficientes e também mais transparentes, promovendo uma interação mais humana, natural e satisfatória.

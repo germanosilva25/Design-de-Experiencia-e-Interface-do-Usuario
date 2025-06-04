@@ -1,0 +1,7 @@
+A Análise de Usuários é uma etapa essencial dentro da Análise de Contexto no processo de desenvolvimento de sistemas interativos, especialmente no campo da Interação Humano-Computador (IHC). Seu objetivo é compreender quem são os usuários do sistema, quais são suas características, necessidades, expectativas, limitações e comportamentos. A partir dessa compreensão, é possível projetar interfaces mais adequadas, funcionais e acessíveis.
+
+Para realizar essa análise, utilizam-se métodos como entrevistas, observações, questionários e criação de personas — representações fictícias de perfis reais de usuários. Esses dados ajudam a identificar padrões de uso, níveis de conhecimento tecnológico, preferências e dificuldades. É importante considerar também aspectos culturais, faixa etária, nível de escolaridade e contexto social, pois esses fatores influenciam diretamente a forma como o usuário interage com a tecnologia.
+
+A análise de usuários permite que o sistema seja planejado de forma mais inclusiva e eficaz, evitando suposições equivocadas durante o design. Ao entender o usuário em profundidade, os desenvolvedores podem tomar decisões mais assertivas sobre layout, linguagem, funcionalidades e acessibilidade. Dessa forma, a tecnologia se adapta ao ser humano — e não o contrário.
+
+Assim, a Análise de Usuários é um dos pilares para o sucesso de qualquer interface, pois garante que o projeto atenda às necessidades reais de quem irá utilizá-lo, promovendo uma experiência mais eficiente, confortável e satisfatória.
